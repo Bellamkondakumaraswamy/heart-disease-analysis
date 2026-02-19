@@ -114,10 +114,10 @@ The project transforms complex healthcare datasets into **intuitive dashboards a
 ### 👤 Author
 
 **Bellamkonda Kumaraswamy**  
-B.Tech – Computer Science & Engineering  
+B.Tech – Computer Science & Engineering(Artificial Intelligence And Machine Learning)  
 Aspiring **Data Analyst & Full Stack Developer**
 
-📧 kumaraswamybellamkonda@gmail.com  
+📧 bellamkondakumaraswamy99@gmail.com  
 🔗 https://www.linkedin.com/in/bellamkondakumaraswamy/  
 💻 https://github.com/Bellamkondakumaraswamy  
 
